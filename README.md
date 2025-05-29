@@ -11,5 +11,5 @@ Python, Java, PostgreSQL | HTML, CSS | UX, UX, FIGMA, Brand design, Design syste
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mashnialvinho)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashnialvinho)
 
