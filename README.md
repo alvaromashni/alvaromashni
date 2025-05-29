@@ -1,33 +1,15 @@
-<h1 align="left">Opa 👋 e aí?</h1>
 
-###
+# Opa, sou o Álvaro 👋
+Sou um desenvolvedor de software (aprendiz) e designer com 5 anos de experiência.
+Estou focado em desenvolvimento de aplicações full-stack - enquanto não entro na área de TI em alguma empresa, estou trabalhando nos meus próprios projetos.
+## 🚀 Sobre mim
+Trabalho com design desde 2020 e sou apaixonado por design de produto e experiência do usuário - pode parecer clichê, mas quero construir produtos que façam a diferença, e por isso prefiro focar em projetos que ofereçam uma boa UX / UX first.
 
-<p align="left">Meu nome é Álvaro, sou de Laguna/SC, eu faço códigos e design!</p>
 
-###
+## 🛠 Habilidades
+Python, Java, PostgreSQL | HTML, CSS | UX, UX, FIGMA, Brand design, Design system.
 
-<h2 align="left">Sobre mim</h2>
 
-###
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mashnialvinho)
 
-<p align="left">✨ (tentando) resolver problemas desde 2023<br>📚 atualmente aprendendo desenvolvimento back-end<br>🎯 a meta é ser melhor que ontem<br>🎲 sou um designer que gosta de resolver problema!</p>
-
-###
-
-<h2 align="left">Eu programo e crio em:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
