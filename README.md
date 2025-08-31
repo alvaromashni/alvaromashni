@@ -7,7 +7,7 @@ Trabalho com design desde 2020 e sou apaixonado por design de produto e experiê
 
 
 ## 🛠 Habilidades
-Python, Java, PostgreSQL | HTML, CSS | UX, UX, FIGMA, Brand design, Design system.
+Kotlin, Java, PostgreSQL | HTML, CSS | UX, UX, FIGMA, Brand design, Design system.
 
 
 ## 🔗 Links
