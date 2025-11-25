@@ -40,12 +40,6 @@
 
 ---
 
-### 🟩 Frequência
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alvaromashni&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-</p>
-
 <p align="center">
   <em>Bora! Um passo de cada vez.</em> 🟩
 </p>
