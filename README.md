@@ -10,16 +10,6 @@
 ```
 ---
 
-## Sobre mim
-
-- Foco em desenvolvimento backend
-- Background forte em design e produto
-- Estudando Análise e Desenvolvimento de Sistemas na Mackenzie
-- Buscando estágio ou primeira oportunidade como desenvolvedor
-- Gosto de ler, jogar, escrever poesia e tomar cafés diferentes.
-
----
-
 ## Tecnologias e ferramentas
 
 <p align="left">
