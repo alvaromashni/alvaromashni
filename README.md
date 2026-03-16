@@ -1,21 +1,13 @@
-<h1 align="center">Olá, eu sou o Álvaro 👋</h1>
+### **☕ About:**
 
-<p align="center">
-  <strong>Backend Developer em formação • Eu era designer por profissão, hoje por hobbie • Café ☕</strong>
-</p>
+```diff
+@@Eu amo igualmente a lógica e a arte@@
 
-<p align="center">
-  Sou designer há 5 anos e atualmente estou migrando para desenvolvimento de software,
-  com foco em backend. Gosto de transformar ideias em produtos úteis, bem pensados
-  e com uma boa experiência pra quem usa.
-</p>
-
-<p align="center">
-  ADS na Mackenzie &nbsp;•&nbsp;
-  Em busca da primeira oportunidade como dev &nbsp;•&nbsp;
-  Construindo projetos e evoluindo um commit por vez
-</p>
-
++ Sou de Laguna, SC 🇧🇷
++ Amo café, sci-fi e poesia!
+! Backend dev, and keep growing
+# Também gosto de Data Engineering (caminhada lenta ainda)
+```
 ---
 
 ## Sobre mim
