@@ -17,6 +17,11 @@
 </p>
 
 ---
+## Boot.dev profile
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/96ea84c3-2dae-4ac3-a9ea-f35eb8edfd16/thumbnail" >
+</p>
 
 ## GitHub Stats
 
