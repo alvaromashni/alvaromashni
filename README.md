@@ -21,12 +21,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alvaromashni&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromashni&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alvaromashni&show_icons=true&theme=nightowl" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromashni&layout=compact&theme=nightowl&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alvaromashni&theme=transparent&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=alvaromashni&theme=nightowl&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
