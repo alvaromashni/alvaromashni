@@ -1,10 +1,6 @@
 <h1 align="center">☕ Álvaro Mashni</h1>
 
 <p align="center">
-  <em>Dev backend que veio do design — e nunca largou a parte visual.</em>
-</p>
-
-<p align="center">
   <a href="https://alvinho.cloud" target="_blank">
     <img src="https://img.shields.io/badge/portfólio-alvinho.cloud-1f2430?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
